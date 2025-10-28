@@ -1,8 +1,8 @@
-🧠 Desafios Técnicos de Entrevistas — Data Science & Machine Learning
+🧠 # Desafios Técnicos de Entrevistas — Data Science & Machine Learning
 
 Este repositório contém desafios técnicos reais de entrevistas que abordam desde análise exploratória de dados (EDA) até modelagem estatística e machine learning. O objetivo é demonstrar habilidades práticas em manipulação de dados, visualização, engenharia de features e construção de modelos preditivos utilizando Python.
 
-🧰 Tecnologias Utilizadas
+🧰 # Tecnologias Utilizadas
 
 | Categoria            | Ferramentas                                   |
 | -------------------- | --------------------------------------------- |
@@ -13,7 +13,7 @@ Este repositório contém desafios técnicos reais de entrevistas que abordam de
 | Avaliação            | métricas estatísticas e gráficos comparativos |
 | Ambiente             | Jupyter Notebook                              |
 
-🎯 Objetivo do Projeto
+🎯 # Objetivo do Projeto
 
 O principal propósito deste repositório é:
 
@@ -21,6 +21,8 @@ O principal propósito deste repositório é:
 - Demonstrar pensamento analítico e boas práticas de código;
 - Mostrar a capacidade de transformar dados em decisões por meio de modelagem e storytelling com dados.
 
-👨‍💻 Autor
+👨‍💻 # Autor
+
 Diego de Mattos
+
 Data Scientist
